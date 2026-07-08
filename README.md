@@ -1,6 +1,6 @@
-# Kollektiver in Copenhagen
+# Kollektiver in Denmark
 
-This is an interactive map of kollektiver in Copenhagen.
+This is an interactive map of kollektiver in Denmark.
 
 I made this map to make the kollektiv landscape easier to see, explore, and share. A spreadsheet can show the data, but a map shows the pattern. It makes it easier to see where kollektiver are clustered, how they relate to the city, and how collective housing exists as part of Copenhagen’s everyday urban fabric.
 
